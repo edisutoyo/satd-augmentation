@@ -147,19 +147,5 @@ In accordance with the original dataset, the dataset comprises four distinct CSV
 |                     |               | zookeeper                  | zookeeper                  |
 +---------------------+---------------+----------------------------+----------------------------+
 ```
-
-## Requirements:
-- GloVe
-- nltk
-- pandas
-- numpy
-- seaborn
-- transformers
-- torch
-- tensorflow
-- keras
-- langdetect
-- inflect
-- inflection
  
 This dataset has undergone a data augmentation process using the [AugGPT](https://arxiv.org/abs/2302.13007) technique. Meanwhile, the original dataset can be downloaded via the following link: [https://github.com/yikun-li/satd-different-sources-data](https://github.com/yikun-li/satd-different-sources-data)
