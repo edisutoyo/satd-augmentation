@@ -1,0 +1,151 @@
+keywords	sim
+typo	0,128893
+test	0,107407
+fix typo	0,100884
+fix	0,095636
+cleanup	0,067532
+remove	0,066285
+polished	0,062632
+logging	0,057788
+code	0,053315
+patch	0,052221
+merge pull request	0,045951
+merge	0,043303
+formatting	0,04319
+warning	0,041977
+merge pull	0,041311
+exception	0,040799
+log	0,03794
+checkstyle	0,037776
+leak	0,037106
+error	0,036725
+unused	0,031037
+fixed	0,03091
+simplify	0,028863
+doc	0,028473
+close	0,024423
+memory	0,023211
+pull request	0,023142
+fixed typo	0,022748
+ts	0,021469
+cxf	0,021019
+fix checkstyle	0,021014
+karaf	0,020813
+build	0,020086
+file	0,019668
+tidy	0,019382
+bug	0,018838
+config	0,018538
+import	0,018363
+remove unused	0,018297
+pull	0,018252
+unnecessary	0,018155
+rename	0,017367
+fixed formatting	0,016811
+arrow	0,016677
+documentation	0,016553
+header	0,016531
+fix checkstyle issue	0,016474
+unit test	0,016467
+docker	0,016341
+component	0,016328
+missing license	0,0161
+log message	0,016
+cluster	0,015788
+remove unnecessary	0,015552
+beam	0,015539
+annotation	0,015426
+ignite	0,014823
+scheduler	0,01477
+typo error	0,01477
+redundant	0,01475
+debug	0,014407
+ts fix clang	0,014313
+minor	0,013579
+reduce excessive logging	0,013569
+reduce	0,013466
+method	0,013363
+clang warning	0,013298
+patch tested	0,013023
+checkstyle issue	0,012809
+memory leak	0,012711
+excessive logging	0,01243
+test slow	0,012267
+code style	0,012208
+minor clean	0,011905
+license header	0,01184
+unused import	0,011601
+error message	0,011549
+unused code	0,011334
+fix clang warning	0,011079
+unnecessary log	0,01092
+duplicated lombok annotation	0,010696
+fix typo doc	0,010544
+improve performance	0,01051
+karaf feature	0,010267
+resource leak	0,010238
+typo doc	0,010179
+white space	0,009877
+fixing typo	0,009547
+thread safety	0,009382
+added missing license	0,009227
+fix clang	0,009207
+missing license header	0,008744
+test class	0,008734
+arrow rust	0,008602
+log search	0,008475
+deprecated code	0,008238
+format configgeneratorpy	0,008237
+simplify merging	0,008237
+readmemd formatting	0,008237
+fix warings	0,008237
+reorg import	0,008237
+tidy recent change	0,008237
+fix generic warning	0,008237
+size byte confusion	0,008237
+fix typo storageconfigenrst	0,008237
+cleanup xbean version	0,008237
+remove useless brace	0,008237
+fix typo png	0,008237
+redundant type argument	0,008237
+fixing typo documentation	0,008237
+remove unnecessary log	0,008237
+fix typocompilation error	0,008237
+fix typo error	0,008237
+flaky test testscantable	0,008237
+fixed missed warning	0,008237
+reduce garbage bufferchain	0,008237
+temporary test code	0,008237
+fix typo comment	0,008237
+usability improvement htablepool	0,008237
+chore clean aphrodite	0,008237
+code tidy arcbuilder	0,008237
+code style cleanup	0,008237
+cxf fixing typo	0,00819
+efficient header couchdb	0,008166
+replace build status	0,008137
+test case	0,008061
+flaky comparison loghandlertestpy	0,008057
+typocompilation error	0,008045
+remove duplicated lombok	0,008026
+fix warning	0,008018
+simplify loop donot	0,007964
+bad formatting changelog	0,007961
+watcher leak distributedqueue	0,007961
+typo storageconfigenrst	0,007946
+security issue listnetworks	0,007942
+compiler warning akkarpcservice	0,007937
+servcenow test configuration	0,007913
+minor cleanup	0,007888
+generic warning	0,007875
+cleanup stax dependency	0,007874
+streamrecord remake cleanup	0,007867
+dead code	0,007866
+ts fix	0,007858
+bit code cleanup	0,007856
+typo provisioning guide	0,007839
+docsconfig remove leftover	0,007831
+remove duplicate websocket	0,00782
+scheduler logging bugfix	0,007816
+donot download ratzip	0,007778
+add skip option	0,007756

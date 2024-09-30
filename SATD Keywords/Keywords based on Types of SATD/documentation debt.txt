@@ -1,0 +1,151 @@
+keywords	sim
+typo	0,26061
+documentation	0,196103
+patch	0,189845
+fix	0,147249
+doc	0,132822
+fix typo	0,130525
+comment	0,065701
+wiki	0,063938
+todo	0,059558
+tutorial	0,053433
+document	0,05197
+test	0,050402
+doc warning	0,048139
+change	0,042093
+update	0,039911
+link	0,038785
+spelling	0,038657
+warning	0,037976
+function need documentation	0,03737
+fixed	0,037124
+function	0,036373
+error	0,033317
+documented	0,031712
+method	0,03084
+need	0,029985
+version	0,029766
+page	0,027479
+thanks	0,025184
+release	0,025174
+fixed typo	0,0242
+code	0,024112
+fixme function need	0,023876
+patch fix	0,02289
+fixme function	0,02249
+fix doc warning	0,022211
+formatting	0,022139
+description	0,021508
+fixme	0,021404
+patch look	0,0213
+config	0,021285
+patch look good	0,021052
+fix doc	0,020757
+function need	0,020654
+trunk	0,02063
+mapreduce	0,020572
+readme	0,019466
+branch	0,019421
+need documentation	0,019183
+deprecated	0,019136
+license	0,018906
+add	0,018903
+remove	0,018878
+visibility public todo	0,018755
+api	0,018532
+build	0,018307
+updated	0,018289
+example	0,018219
+new	0,018131
+default visibility	0,018026
+synchronized	0,017869
+section	0,01764
+message	0,017609
+broken	0,017467
+component	0,017307
+ted	0,017254
+patch fix typo	0,017122
+doc fix	0,016262
+public todo centralise	0,015737
+typo error	0,014942
+the patch	0,01473
+missing license	0,01438
+add comment	0,01424
+spring boot	0,013784
+public todo	0,013578
+unit test	0,013498
+fixing typo	0,013446
+todo document	0,013175
+doc warning group	0,013127
+update documentation	0,012663
+minor fix typo	0,012554
+license header	0,012363
+update wiki	0,012334
+typo documentation	0,012239
+wiki page	0,011862
+todo need	0,011767
+need documentation constructor	0,011683
+authmethod http	0,011294
+use default visibility	0,011289
+constructor string	0,011051
+documentation constructor	0,010888
+minor typo	0,010811
+updated patch	0,010538
+todo centralise knowledge	0,010494
+exchange doc	0,010383
+mention authmethod http	0,01011
+added missing license	0,009924
+fix typo doc	0,009773
+typo fix	0,009598
+need documentation string	0,009528
+todo centralise	0,009408
+spelling error	0,009396
+fix typo error	0,009218
+the documentation	0,009012
+release note	0,008978
+add doc	0,00884
+doc fixed	0,008821
+documentation broken	0,008819
+doc fix typo	0,008778
+missing license header	0,008732
+todo spec	0,008722
+documentation constructor string	0,008473
+cluster setup	0,008427
+use swaggerjson	0,008324
+documentation string	0,00831
+need update	0,008273
+assignee field	0,008264
+broken link	0,008221
+message typo tsimpleserver	0,008167
+warning group	0,00787
+minor fix	0,00783
+fixed doc	0,007737
+documentation string string	0,00732
+thanks fixing typo	0,007315
+fixing typo documentation	0,007278
+fix typo storageconfigenrst	0,007278
+minor dyslexia changestxt	0,007278
+assignee field undocumented	0,007278
+fix typocompilation error	0,007278
+fix spelling src	0,007278
+doc work required	0,007278
+omission hod documentation	0,007278
+fix formatting tracingmd	0,007278
+fix typo png	0,007278
+fix typo comment	0,007278
+trivial typo test	0,007278
+excessive generated html	0,007278
+improves comment patch	0,007278
+typo aws indexmd	0,007202
+typo leastindexs leastindexes	0,007202
+cxf fixing typo	0,007199
+checkstyle fix typo	0,007063
+authmethod http documentation	0,007014
+fix minor typo	0,00695
+investigate typo spec	0,006884
+typo correct url	0,006878
+wrong link doc	0,00687
+readmemd incorrect formmating	0,006851
+unused field comment	0,006841
+documentation rpc header	0,006827
+wrongly spelled thirfts	0,006804

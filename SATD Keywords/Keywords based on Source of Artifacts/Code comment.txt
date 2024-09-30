@@ -1,0 +1,151 @@
+keywords	sim
+todo	0,614244
+fixme	0,127594
+method	0,056808
+class	0,054422
+exception	0,047934
+test	0,044627
+null	0,0425
+hack	0,038955
+model	0,036752
+need	0,035488
+todo need	0,033815
+event	0,032759
+type	0,029794
+used	0,029742
+remove	0,029099
+this	0,027593
+todo implement	0,026226
+constructor	0,02622
+defer argument checking	0,026186
+check	0,02533
+error	0,024613
+defer argument	0,024204
+implement	0,023881
+instance	0,023873
+string	0,023558
+package	0,022265
+modelextent	0,022103
+renderer	0,021172
+collection	0,020785
+todo check	0,0205
+property	0,020223
+diagram	0,020092
+code	0,019951
+implementation	0,019898
+return	0,019772
+fig	0,019229
+case	0,019197
+stereotype	0,019142
+namespace	0,018681
+gef	0,018319
+workaround	0,017804
+defer	0,017647
+default	0,017371
+project	0,017161
+throw exception	0,017152
+todo this	0,017034
+new	0,016778
+create	0,016634
+modelextent new element	0,0166
+subclass	0,015923
+argo	0,015895
+variable	0,015734
+argument	0,01564
+argument checking	0,015626
+replace	0,015573
+dependency	0,01553
+action	0,015319
+interface	0,014979
+change	0,014833
+todo remove	0,014011
+todo really	0,0136
+non nls	0,013479
+todo replace	0,012923
+todo add	0,012375
+specify modelextent	0,01215
+todo removed	0,011775
+todo make	0,011256
+use renderer	0,011059
+instance renederer data	0,011002
+todo return	0,01009
+todo notallocatableallocator	0,009976
+todo used	0,009915
+todo use	0,009805
+todo method	0,009697
+todo should	0,009619
+addtrigger need work	0,009509
+todo notallocatableallocator probably	0,009417
+specify modelextent new	0,009363
+todo test	0,009346
+new instance	0,009335
+code addtrigger	0,009296
+magic number	0,008874
+model element	0,008848
+sql rendering	0,008779
+notify flag plot	0,008699
+new element created	0,008551
+model subsystem	0,008498
+plot notification	0,008359
+function need documentation	0,007909
+modelextent new	0,007808
+datatype created	0,007527
+deprecated ctor private	0,007517
+todo support	0,007496
+null result npe	0,007358
+throw exception instead	0,007321
+renederer data	0,00727
+todo right	0,007051
+better way	0,006998
+todo probably	0,006987
+todo possible use	0,006976
+todo event projectbrowser	0,006867
+todo better	0,006812
+notify flag	0,006811
+use renderer future	0,006807
+notallocatableallocator probably	0,006747
+todo handle	0,006701
+todo fix	0,006454
+present code addtrigger	0,006443
+plot notification happens	0,006424
+fixme really	0,00635
+diagramfactoryinterface removed	0,006312
+sql rendering package	0,0063
+ctor private	0,006262
+new element	0,006154
+todo correct	0,006078
+todo throw	0,006076
+deprecated ctor	0,006048
+todo doe	0,005993
+replace regular expression	0,005969
+programming error bail	0,005855
+fixme really assert	0,005841
+todo plugin support	0,005817
+instance datatype created	0,005771
+todo spring inject	0,005762
+regionfactory class doc	0,005689
+hack skip processing	0,005625
+todo sql rendering	0,005621
+tweak notify flag	0,005553
+missing ability parse	0,005537
+remember change class	0,005504
+remove casting diagramfactoryinterface	0,005496
+new instance renederer	0,00549
+karlpeder implementation undoredo	0,00539
+notification happens update	0,005377
+remove deprecated ctor	0,00523
+specifically ignore item	0,005224
+todo remove deprecated	0,005194
+todo shift block	0,005171
+actionstate callstate subactivitystate	0,005161
+problem iooutputstream writing	0,00512
+create initialized instance	0,005114
+fixme function need	0,005053
+soon diagramfactoryinterface removed	0,004946
+casting diagramfactoryinterface soon	0,004929
+non nls todo	0,0049
+todo actionstate callstate	0,004804
+update crosshair value	0,004739
+iooutputstream writing bare	0,004731
+handle different column	0,004643
+main session window	0,00462

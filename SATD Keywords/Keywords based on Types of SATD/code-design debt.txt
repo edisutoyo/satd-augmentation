@@ -1,0 +1,151 @@
+keywords	sim
+patch	0,135646
+test	0,069422
+exception	0,051163
+checkstyle	0,050862
+remove	0,049847
+warning	0,042837
+leak	0,038342
+log	0,036262
+code	0,031533
+fix	0,031051
+cleanup	0,030277
+cluster	0,028987
+error	0,028567
+performance	0,027388
+method	0,026676
+file	0,025637
+class	0,025495
+logging	0,025178
+null	0,022907
+change	0,021729
+build	0,021446
+memory	0,020307
+table	0,01997
+deprecated	0,019874
+message	0,019731
+nit	0,019189
+memory leak	0,01877
+line	0,018367
+clean	0,01727
+slow	0,015542
+merge	0,01494
+unnecessary	0,014524
+rpc	0,014174
+removed	0,014119
+redundant	0,013892
+client	0,01377
+timeout	0,013769
+import	0,013705
+unused	0,013701
+findbugs	0,013673
+formatting	0,013535
+indentation	0,013442
+byte	0,013291
+field	0,013145
+config	0,013101
+fix checkstyle	0,013074
+queue	0,012995
+case	0,012811
+checkstyle warning	0,012798
+interface	0,012716
+version	0,01255
+region	0,012209
+whitespace	0,012197
+findbugs warning	0,011434
+checkstyle issue	0,01037
+error message	0,009804
+checkstyle error	0,008557
+remove unnecessary	0,007694
+merge pull request	0,006963
+log message	0,006704
+patch look good	0,006656
+patch look	0,006641
+merge pull	0,006528
+unit test	0,006168
+remove unused	0,006022
+stack trace	0,005886
+fix checkstyle warning	0,005838
+fix checkstyle error	0,005739
+null check	0,005513
+the patch	0,00517
+remove deprecated	0,005079
+deprecated method	0,005021
+patch remove	0,005018
+compiler warning	0,004921
+resource leak	0,004733
+pull request	0,004658
+test failure	0,004636
+thread pool	0,004471
+unused import	0,004467
+test case	0,004152
+fix checkstyle issue	0,004103
+new patch	0,003922
+logging message	0,003866
+nit space	0,003801
+memory usage	0,003717
+table metadata	0,003693
+syntax highlighting	0,003626
+commons httpclient	0,003526
+new findbugs warning	0,003516
+swallow interrupt exception	0,003445
+osgi test	0,003349
+improve performance	0,003345
+dead code	0,003317
+default value	0,003309
+interrupt exception	0,003255
+fixed checkstyle issue	0,003247
+usability improvement htablepool	0,003247
+throw exception	0,003235
+unused field	0,003219
+fixed checkstyle	0,003218
+code cleanup	0,003154
+cleaned patch	0,003065
+space indentation	0,002991
+white space	0,002956
+swallow interrupt	0,002936
+improvement htablepool	0,002933
+test server	0,002921
+doc warning	0,002854
+duplicate code cmakeliststxt	0,002845
+minor nit	0,002827
+memory leak fileconsumer	0,002797
+fix clang warning	0,002779
+better error message	0,002752
+olingo sslcontext directly	0,002618
+omnibox dropdown font	0,0026
+reduce excessive logging	0,002393
+ignite memory leak	0,002365
+fix remaining checkstyle	0,002244
+ts fix clang	0,002208
+remove deprecated method	0,002183
+arrow rust datafusion	0,002159
+undeclared exception async	0,002031
+unnecessary throw ioexception	0,002018
+remove unused parameter	0,001985
+removing peer doe	0,001969
+reviewer widget use	0,001947
+use thread pool	0,001944
+findbugs new warning	0,00194
+perl client library	0,001933
+lombok annotation pulsar	0,001929
+lgtm minor nit	0,001926
+patch look pretty	0,001904
+metadata loading time	0,001897
+tbinaryprotocol message header	0,001863
+clean target compile	0,001858
+address checkstyle warning	0,00182
+font size displayed	0,001811
+tnonblockingserver clean state	0,001798
+warning deprecated conversion	0,001786
+topic sentence case	0,001786
+fix findbugs warning	0,001767
+mixed line endings	0,001756
+checkstyle doc warning	0,001736
+doesnot apply cleanly	0,001725
+left title underline	0,001723
+png think odd	0,001712
+sslcontext directly create	0,001711
+directly create connection	0,001695
+like actually png	0,001664
+use instead place	0,001655

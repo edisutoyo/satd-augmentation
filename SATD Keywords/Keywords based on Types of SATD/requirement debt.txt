@@ -1,0 +1,151 @@
+keywords	sim
+todo	0,786597
+fixme	0,11925
+todo implement	0,073417
+todo check	0,068642
+implement	0,065671
+implemented	0,061233
+check	0,058494
+null	0,057547
+thread safe	0,053785
+thread	0,050486
+todo need	0,039891
+method	0,035449
+exception	0,035359
+todo replace	0,035129
+need	0,034713
+list	0,034055
+safe	0,034005
+null result npe	0,03345
+implementation	0,032896
+todo possible use	0,031716
+todo removed	0,031407
+string	0,031282
+variable	0,031207
+replace	0,031043
+type	0,029885
+model	0,029325
+support	0,029279
+project	0,028044
+todo support	0,027302
+replace regular expression	0,027136
+todo add	0,027135
+use variable	0,026604
+todo plugin support	0,026445
+message	0,026186
+error	0,025561
+null result	0,025538
+todo plugin	0,024777
+karlpeder implementation undoredo	0,024504
+use	0,022662
+expression	0,022361
+return	0,021718
+regular expression	0,021472
+test	0,021033
+property	0,021032
+main session window	0,021002
+thread safety	0,020934
+module pick constant	0,02065
+session	0,020415
+file	0,020318
+todo replace regular	0,020002
+patch	0,019931
+fixme donot use	0,019771
+association	0,019433
+removed	0,019292
+model subsystem	0,019279
+session window	0,019264
+todo karlpeder	0,019134
+action	0,01913
+panel	0,018931
+todo possible	0,018761
+possible use variable	0,0185
+event	0,018353
+exception returning null	0,018323
+add	0,01822
+subsystem	0,018028
+diagram	0,017728
+todo karlpeder implementation	0,017466
+fixme donot	0,0173
+keyprovider	0,017233
+table	0,017146
+main session	0,017109
+progress	0,017048
+this	0,017028
+calculate	0,016908
+case	0,016465
+karlpeder	0,01616
+constant	0,016034
+override module pick	0,015973
+implementation undoredo missing	0,015913
+window	0,015875
+index	0,015828
+remove	0,015749
+allow	0,01568
+need calculate	0,015529
+destination database type	0,015389
+support main session	0,015038
+karlpeder implementation	0,01503
+todo return	0,014951
+replace regular	0,014864
+npe explanation	0,014859
+todo make	0,014372
+gui uploading file	0,014364
+todo override	0,014073
+todo check type	0,014006
+todo treat message	0,014006
+viewer update event	0,013891
+module pick	0,013831
+todo review	0,013806
+uploading file	0,013737
+undoredo missing	0,013627
+supported type	0,01355
+viewer update	0,013313
+throwing exception returning	0,013197
+destination database	0,01316
+fixme missing arity	0,013084
+lambda argscheckargcountruntime parameterslength	0,013055
+implementation undoredo	0,013033
+mark diagramproject dirty	0,012933
+fixme jna need	0,012924
+dialect delegate	0,012823
+todo expect association	0,012822
+jna need properly	0,0128
+todo property	0,012712
+need calculate just	0,012634
+todo handle	0,012533
+return value	0,012529
+consider inherited attribute	0,01243
+readwrite nonstrictreadwrite	0,012352
+todo override module	0,012316
+override module	0,012296
+pick constant	0,012287
+fixme jna	0,012229
+comboboxmodel depicts changed	0,012195
+inherited attribute	0,012136
+todo unlocks	0,012062
+lambda argscheckargcountruntime	0,012014
+localize filter action	0,011926
+database type derive	0,011886
+expect association	0,011884
+todo comment	0,011831
+throwing exception	0,011818
+todo use	0,01179
+todo support kind	0,011769
+model subsystem issue	0,011395
+interval marker	0,011321
+remaining supported type	0,011141
+todo unlocks string	0,010872
+todo implement willnot	0,010854
+handling nested notation	0,010807
+table null association	0,01063
+support readwrite nonstrictreadwrite	0,010612
+result npe explanation	0,010582
+delete file valid	0,010401
+fixme dialog error	0,01027
+todo expression instancevalue	0,010178
+todo comment field	0,010171
+adding new region	0,010113
+todo support real	0,010075
+todo placeholder implementation	0,01006
+todo truncates string	0,009957
