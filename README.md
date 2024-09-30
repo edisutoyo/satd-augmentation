@@ -30,23 +30,6 @@ In accordance with the original dataset, the dataset comprises four distinct CSV
 │  │  ├── requirement debt.txt
 │  │  └── test debt.txt
 │  └── .DS_Store
-├── src
-│  ├── bert
-│  │  ├── config.py
-│  │  ├── main.py
-│  │  ├── model_builder.py
-│  │  ├── predict.py
-│  │  ├── train_model.py
-│  │  └── utils.py
-│  ├── bilstm
-│  │  ├── commit_augmented.csv
-│  │  ├── data_preparation.py
-│  │  ├── embedding_loader.py
-│  │  ├── evaluate_model.py
-│  │  ├── main.py
-│  │  ├── model_builder.py
-│  │  └── train_model.py
-│  └── preprocessing.py
 ├── Supplementary Material.docx
 ├── data-augmentation-code_comments.csv
 ├── data-augmentation-commit-messages.csv
